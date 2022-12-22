@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "JCgO3eXLYjSz6PskLiiU9EQY18W7LyTybzmIiwQc7+qx0Q7SAJIPmn1LnsUCk1u/EVR9quYIGVvt4Wz/d6dOjw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\msi\\Desktop\\BLUE\\AppExecute\\AppExecute.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\msi\\.nuget\\packages\\npgsql\\6.0.4\\npgsql.6.0.4.nupkg.sha512",
+    "C:\\Users\\msi\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
